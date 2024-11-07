@@ -43,7 +43,7 @@
 
 | Title | Description |
 | :--- | :--- |
-| <a href="https://note.tonycrane.cc/" target="_blank">💎 鹤翔万里的个人笔记本</a> | 🥑 内容详细、排版美观的计算机知识笔记，ZJU MkDocs 笔记流鼻祖。 |
+| <a href="https://flowus.cn/xyhelp/share/91f0dd5a-7f17-45e3-9164-bfb96dce48f0" target="_blank">💎 xy3-计算机科学与技术-应试笔记</a> | 🥑 xy3的复习期末用的课程笔记，含收集的网课 |
 
 
 
