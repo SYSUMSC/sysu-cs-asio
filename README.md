@@ -76,7 +76,8 @@ python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 如果发现项目中涉及的内容有误或链接失效等，可以直接修改 `data.csv` 中对应内容。
 
 ## 鸣谢 / 灵感来源
-- [IsshikiHugh/zju-cs-asio](https://github.com/IsshikiHugh/zju-cs-asio)
+
+- 原项目： [IsshikiHugh/zju-cs-asio](https://github.com/IsshikiHugh/zju-cs-asio)
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs/tree/master)
 - [SaltyfishShop/big_discusson](https://github.com/SaltyfishShop/big_discusson)
