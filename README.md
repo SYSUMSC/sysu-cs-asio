@@ -84,7 +84,7 @@ python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 以及 Contributors：
 
 <a href="https://github.com/SYSUMSC/sysu-cs-asio/graphs/contributors">
-    <img width="550" src="https://contrib.rocks/image?repo=IsshikiHugh/zju-cs-asio" />
+    <img width="550" src="https://contrib.rocks/image?repo=SYSUMSC/sysu-cs-asio" />
 </a>
 
 ## 许可
