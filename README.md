@@ -39,11 +39,12 @@
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
 
-**条目统计**： 💎 个人 2 项！
+**条目统计**： 💎 个人 3 项！
 
 | Title | Description |
 | :--- | :--- |
 | <a href="https://flowus.cn/xyhelp/share/91f0dd5a-7f17-45e3-9164-bfb96dce48f0" target="_blank">💎 xy3-计算机科学与技术-期末应试笔记</a> | 🥑 xy3的复习期末用的课程笔记，含收集的网课 |
+| <a href="https://seanoll.github.io/cpp/" target="_blank">💎 Seanoll-程序设计II(C++)</a> | 🥑 25级程设II课程笔记 |
 | <a href="https://github.com/fuuzen/notebook" target="_blank">💎 fuuzen-计算机科学与技术-mkdoc笔记本</a> | 🥑 学习笔记包括计算机、数学、思政的思维导图和笔记 |
 
 
